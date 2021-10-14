@@ -1,6 +1,10 @@
 # face_detect
 human faces detect by MTCNN and facenet.
 
+
+
+视频介绍：https://www.bilibili.com/video/BV1vu411Z76G?share_source=copy_web
+
 **************************************************
 根目录文件夹介绍
 face_dataset --- 已录入的用户的头像图
