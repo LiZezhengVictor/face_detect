@@ -7,6 +7,7 @@ human faces detect by MTCNN and facenet.
 
 **************************************************
 根目录文件夹介绍
+
 face_dataset --- 已录入的用户的头像图
 
 model_data --- 存放MTCNN和Facenet的网络模型
@@ -21,6 +22,7 @@ utils --- 人脸图像处理的功能函数库
 
 **************************************************
 根目录文件介绍
+
 face_detect.py --- 主程序
 
 faceinfodb.txt --- 存放用户的脸部信息
